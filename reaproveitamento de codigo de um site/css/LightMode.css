@@ -53,6 +53,7 @@ button {
     left: 0;
     flex-direction: column;
     justify-content: center;
+    height: 250px;
 }
 #conteudoCentral {
     display: block;
@@ -80,30 +81,30 @@ button {
 #campBuscaInserir:focus {
     outline: none;
     text-align: center;
-    color: rgb(35, 255, 28);
-    box-shadow: 0 0 30px rgb(35, 255, 28);
+    color: royalblue;
+    box-shadow: 0 0 30px royalblue;
 }
 #campBuscaInserir::placeholder {
     text-align: center;
-    color: rgb(194, 252, 119);
+    color: rgb(252, 212, 212);
 }
 
 #confirmaBusca {
     float: right;
     width: 50px;
     height: 40px;
-    background: darkcyan;
+    background: royalblue;
     border: solid 1px darkgray;
     border-radius: 0 20px 20px 0;
-    color: rgb(194, 252, 119);
+    color:  rgb(252, 212, 212);
     font-size: 15px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 #confirmaBusca:hover {
     cursor: pointer;
-    box-shadow: 0 0 30px rgb(35, 255, 28);
-    text-shadow: 0 0 30px rgb(35, 255, 28);
-    color: rgb(35, 255, 28);
+    box-shadow: 0 0 30px blue;
+    text-shadow: 0 0 30px blue;
+    color: blue;
 }
 /* campo de busca termina */
 /* conteudo principal inicia */

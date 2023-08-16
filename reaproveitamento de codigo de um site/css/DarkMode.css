@@ -11,7 +11,7 @@ button {
 #menuTop {
     border-radius: 0 0 15px 15px;
     border: solid 1px transparent;
-    background-image: linear-gradient(black, #1c1c1c, black), radial-gradient(circle at bottom, red, #1c1c1c);
+    background-image: linear-gradient(black, #1c1c1c, black), radial-gradient(circle at bottom, red, royalblue);
     background-origin: border-box;
     background-clip: content-box, border-box;
     height: 50px;
@@ -28,7 +28,7 @@ button {
 }
 #rodape {
     border: double 2px transparent;
-    background-image: linear-gradient(black,black), radial-gradient(circle at bottom, red, #1c1c1c);
+    background-image: linear-gradient(black,black), radial-gradient(circle at bottom, red, royalblue);
     background-origin: border-box;
     background-clip: content-box, border-box;
     border-radius: 15px 15px 0 0;
@@ -44,7 +44,7 @@ button {
 #menuL {
     float: left;
     border: double 2px transparent;
-    background: linear-gradient(black, #1c1c1c,black), radial-gradient(circle at bottom, red, #1c1c1c);
+    background: linear-gradient(black, #1c1c1c,black), radial-gradient(circle at bottom, red, royalblue);
     background-origin: border-box;
     background-clip: content-box, border-box;
     border-radius: 15px;
@@ -53,6 +53,7 @@ button {
     left: 0;
     flex-direction: column;
     justify-content: center;
+    height: 250px;
 }
 #conteudoCentral {
     display: block;
@@ -152,7 +153,7 @@ button {
     margin: 8px;
     background: linear-gradient(black, #1c1c1c,black);
     border-radius: 20px;
-    border: solid 1px white;
+    border: solid 1px royalblue;
     color: white;
     font-weight: bolder;
     text-decoration: none !important;
@@ -163,9 +164,9 @@ button {
     width: 200px;
     height: 50px;
     background: linear-gradient(#1c1c1c, black, #1c1c1c);
-    text-shadow: 0 0 30px red;
+    text-shadow: 0 0 30px royalblue;
     box-shadow: 0 0 15px red;
-    color: red;
+    color: royalblue;
 }
 #btn-armasTK {
     width: 200px;
@@ -173,7 +174,7 @@ button {
     margin: 8px;
     background: linear-gradient(black, #1c1c1c,black);
     border-radius: 20px;
-    border: solid 1px white;
+    border: solid 1px royalblue;
     color: white;
     font-weight: bolder;
     text-decoration: none !important;
@@ -184,9 +185,9 @@ button {
     width: 200px;
     height: 50px;
     background: linear-gradient(#1c1c1c, black, #1c1c1c);
-    text-shadow: 0 0 30px red;
+    text-shadow: 0 0 30px royalblue;
     box-shadow: 0 0 15px red;
-    color: red;
+    color: royalblue;
 }
 #btn-efemerasTK{
     width: 200px;
@@ -194,7 +195,7 @@ button {
     margin: 8px;
     background: linear-gradient(black, #1c1c1c,black);
     border-radius: 20px;
-    border: solid 1px white;
+    border: solid 1px royalblue;
     color: white;
     font-weight: bolder;
     text-decoration: none !important;
