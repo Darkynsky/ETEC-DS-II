@@ -1,0 +1,212 @@
+#conteudoToxina {
+    color:royalblue;
+    box-shadow: 0 0 10px royalblue; 
+}
+#conteudoGlacial {
+    color:royalblue;
+    box-shadow: 0 0 10px royalblue;    
+}
+#conteudoEletrico {
+    color:royalblue;
+    box-shadow: 0 0 10px royalblue; 
+}
+#conteudoRadiacao {
+    color:royalblue;
+    box-shadow: 0 0 10px royalblue; 
+}
+#conteudoMagnetismo {
+    color:royalblue;
+    box-shadow: 0 0 10px royalblue; 
+}
+#conteudoIgnio {
+    color:royalblue;
+    box-shadow: 0 0 10px royalblue; 
+}
+#conteudoGasoso {
+    color:royalblue;
+    box-shadow: 0 0 10px royalblue; 
+}
+#conteudoCorrosivo {
+    color:royalblue;
+    box-shadow: 0 0 10px royalblue; 
+}
+#conteudoViral {
+    color:royalblue;
+    box-shadow: 0 0 10px royalblue; 
+}
+#conteudoColisivo {
+    color:royalblue;
+    box-shadow: 0 0 10px royalblue; 
+}
+
+/*botoes dark mode e light mode abaixo*/
+#trocaTema {
+    margin: 3px;
+    height: 50px;
+    width: 84px;
+    left:0;
+    position: absolute;
+}
+#btnDarkMode {
+    margin: 1px;
+    font-size: 10px;
+    background: linear-gradient(black, #1c1c1c,black);
+    height: 40px;
+    width: 40px;
+    color:red;
+    border: solid 1px red;
+    border-radius: 15px;
+}
+#btnLightMode {
+    margin: 1px;
+    font-size: 10px;
+    background: linear-gradient(#1c1c1c, white, #1c1c1c);
+    height: 40px;
+    width: 40px;
+    color: royalblue;
+    border: solid 1px royalblue;
+    border-radius: 15px;
+    float: right;
+}
+/* botoes elementos inicia */
+#btnToxina {
+    margin: 1px;
+    border: solid 2px royalblue;
+    border-radius: 0 0 15px 15px;
+    background: linear-gradient(black, #1c1c1c,black);
+    height: 46px;
+    color: royalblue;
+    font-size: 15px;
+}
+#btnToxina:hover {
+    text-shadow: 0 0 50px red;
+    box-shadow: 0 0 15px red;
+    border-radius: 0 0 0 15px;
+}
+#btnEletrico {
+    margin: 1px;
+    border: solid 2px royalblue;
+    border-radius: 0 0 15px 15px;
+    background: linear-gradient(black, #1c1c1c,black);
+    height: 46px;
+    color: royalblue;
+    font-size: 15px;
+}
+#btnEletrico:hover {
+    text-shadow: 0 0 50px red;
+    box-shadow: 0 0 15px red;
+    border-radius: 0 0 0 15px;
+}
+#btnMagnetismo {
+    margin: 1px;
+    border: solid 2px royalblue;
+    border-radius: 0 0 15px 15px;
+    background: linear-gradient(black, #1c1c1c,black);
+    height: 46px;
+    color: royalblue;
+    font-size: 15px;
+}
+#btnMagnetismo:hover {
+    text-shadow: 0 0 50px red;
+    box-shadow: 0 0 15px red;
+    border-radius: 0 0 0 15px;
+}
+#btnRadiacao {
+    margin: 1px;
+    border: solid 2px royalblue;
+    border-radius: 0 0 15px 15px;
+    background: linear-gradient(black, #1c1c1c,black);
+    height: 46px;
+    color: royalblue;
+    font-size: 15px;
+}
+#btnRadiacao:hover {
+    text-shadow: 0 0 50px red;
+    box-shadow: 0 0 15px red;
+    border-radius: 0 0 0 15px;
+}
+#btnGlacial {
+    margin: 1px;
+    border: solid 2px royalblue;
+    border-radius: 0 0 15px 15px;
+    background: linear-gradient(black, #1c1c1c,black);
+    height: 46px;
+    color: royalblue;
+    font-size: 15px;
+}
+#btnGlacial:hover {
+    text-shadow: 0 0 50px red;
+    box-shadow: 0 0 15px red;
+    border-radius: 0 0 0 15px;
+}
+#btnIgnio {
+    margin: 1px;
+    border: solid 2px royalblue;
+    border-radius: 0 0 15px 15px;
+    background: linear-gradient(black, #1c1c1c,black);
+    height: 46px;
+    color: royalblue;
+    font-size: 15px;
+}
+#btnIgnio:hover {
+    text-shadow: 0 0 50px red;
+    box-shadow: 0 0 15px red;
+    border-radius: 0 0 0 15px;
+}
+#btnGasoso {
+    margin: 1px;
+    border: solid 2px royalblue;
+    border-radius: 0 0 15px 15px;
+    background: linear-gradient(black, #1c1c1c,black);
+    height: 46px;
+    color: royalblue;
+    font-size: 15px;
+}
+#btnGasoso:hover {
+    text-shadow: 0 0 50px red;
+    box-shadow: 0 0 15px red;
+    border-radius: 0 0 0 15px;
+}
+#btnCorrosivo {
+    margin: 1px;
+    border: solid 2px royalblue;
+    border-radius: 0 0 15px 15px;
+    background: linear-gradient(black, #1c1c1c,black);
+    height: 46px;
+    color: royalblue;
+    font-size: 15px;
+}
+#btnCorrosivo:hover {
+    text-shadow: 0 0 50px red;
+    box-shadow: 0 0 15px red;
+    border-radius: 0 0 0 15px;
+}
+#btnViral {
+    margin: 1px;
+    border: solid 2px royalblue;
+    border-radius: 0 0 15px 15px;
+    background: linear-gradient(black, #1c1c1c,black);
+    height: 46px;
+    color: royalblue;
+    font-size: 15px;
+}
+#btnViral:hover {
+    text-shadow: 0 0 50px red;
+    box-shadow: 0 0 15px red;
+    border-radius: 0 0 15px 15px;
+}
+#btnColisivo {
+    margin: 1px;
+    border: solid 2px royalblue;
+    border-radius: 0 0 15px 15px;
+    background: linear-gradient(black, #1c1c1c,black);
+    height: 46px;
+    color: royalblue;
+    font-size: 15px;
+}
+#btnColisivo:hover {
+    text-shadow: 0 0 50px red;
+    box-shadow: 0 0 15px red;
+    border-radius: 0 0 15px 15px;
+}
+/* botoes elementos termina */
